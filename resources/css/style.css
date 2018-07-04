@@ -2,18 +2,19 @@ body {
   font-family: Helvetica sans-serif;
   color: black;
   text-align: center;
+  font-size: 14px;
 }
 
 .intro {
-  background-image: url ("../images/building.png";
+  background-image: url("../images/building.png");
   color: white;
   font-size: 10px
 }
 
 .footer {
-  font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
 
 h1,
@@ -32,4 +33,8 @@ h2 {
 
 h3 {
   font-size: 23px;
+}
+
+#copy {
+  font-size: 11px;
 }
